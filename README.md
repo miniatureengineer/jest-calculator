@@ -1,2 +1,2 @@
 ### jest-calculator
-in-progress
+in progress
