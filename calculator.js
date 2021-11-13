@@ -2,8 +2,10 @@
 const calculator = {
 
     // 2. Create individual function
-    add: (num1, num2) => num1 + num2,
-    subtract: (num1, num2) => num1 - num2,
+    add: (a, b) => a + b,
+    subtract: (a, b) => a - b,
+    multiply: (a, b) => a * b,
+    divide: (a, b) => a / b,
 };
 
 // 3. Export function
