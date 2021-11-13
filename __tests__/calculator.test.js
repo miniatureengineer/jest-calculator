@@ -4,7 +4,6 @@ const calculator = require("../calculator");
 const a = 4;
 const b = 2;
 
-
 // 5. Describe test cases
 describe("Test basic calculator", () => {
 
